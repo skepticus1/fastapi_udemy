@@ -14,3 +14,6 @@ books is refering to the books.py
 app is the app = FastAPI() inside books
 --reload will reload the app to reload everything there's a code change.
 
+todoapp.
+install sqlalchemy
+pip install sqlalchemy
